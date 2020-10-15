@@ -1,0 +1,16 @@
+{
+  "name": "generator-vue-component",
+  "version": "1.0.0",
+  "description": "Generate Vue component",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeomon-generator"
+  ],
+  "author": "Matthew Hinton",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
