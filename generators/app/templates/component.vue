@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div<% if (apollo) { %> v-if="!this.$apollo.queries.queryPropName.loading" <% } %>></div>
 </template>
 
 <script>
